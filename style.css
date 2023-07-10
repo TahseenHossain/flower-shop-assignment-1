@@ -90,13 +90,13 @@ body{
 
 .flower-picks{
     display: flex;
-    padding: 0px 164px;
+    padding: 0px 130px;
     
 }
 
 
 .first-flower{
-    width: 400px;
+    width: 464px;
     height: 500px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
@@ -107,7 +107,7 @@ body{
 
 
 .second-flower{
-    width: 400px;
+    width: 464px;
     height: 500px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
@@ -118,7 +118,7 @@ body{
 
 
 .third-flower{
-    width: 400px;
+    width: 464px;
     height: 470px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
@@ -183,7 +183,7 @@ body{
     font-size: 40px;
     font-weight: 800;
     padding-top: 115px;
-    padding-left: 210px;
+    padding-left: 180px;
 }
 
 .deal-article{
@@ -218,6 +218,117 @@ body{
     height: 420px;
     padding: 50px 215px 50px 90px;
 }
+
+/*insta*/
+
+.insta{
+    text-align: center; 
+}
+
+.insta-head{
+    padding-top: 155px;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.insta-article{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 24px 330px 24px;
+}
+
+/*flower-box*/
+.flower-box{
+    padding-top: 24px ;
+    display: flex;
+    width: 342px;
+    height: 396px;
+}
+
+.first-box{
+    padding-left: 55px;
+    padding-right: 10px;
+}
+
+.second-box{
+    padding-right: 10px;
+}
+
+.third-box{
+    padding-right: 10px;
+}
+
+.latest{
+    margin: 100px 120px 100px;
+    background-image: url("../Flower Asset/Rectangle 9.png");
+    width: 1240px;
+    height: 449px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.latest-title{
+    padding-top: 60px;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+
+.latest-article{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.latest-box{
+    width: 550px;
+    height: 45px;
+    
+}
+
+
+.latest-box input{   
+    border: none;   
+    outline: none;
+}
+
+footer{
+    width: 1510px;
+    height: 449px;
+    background: #111010;
+    text-align:center;
+    justify-self: center;
+
+}
+
+.footer-head{
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: 800;
+    padding-top: 105px;
+}
+
+
+.footer-article{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 12px 324px;
+}
+
+.copy{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 64px;
+}
+
 
 
 
