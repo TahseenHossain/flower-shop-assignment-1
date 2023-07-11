@@ -197,16 +197,6 @@ body{
 
 }
 
-.sign-up{
-    padding: 10px 23px;
-    align-items: flex-start;
-    gap: 10px;
-    border-radius: 8px;
-    background: #E55473;
-    color: #FFF;
-    font-size: 13px;
-    font-weight: 700;
-}
 
 .deal-left{
     padding-top: 15px;
@@ -262,7 +252,7 @@ body{
 }
 
 .latest{
-    margin: 100px 120px 100px;
+    margin: 100px 120px;
     background-image: url("../Flower Asset/Rectangle 9.png");
     width: 1240px;
     height: 449px;
@@ -298,6 +288,7 @@ body{
 }
 
 footer{
+    margin-top: 64px;
     width: 1510px;
     height: 449px;
     background: #111010;
@@ -329,7 +320,45 @@ footer{
     padding-bottom: 64px;
 }
 
+/*my-part*/
+.flower-bookey{
+    padding-top: 50px;
+    display: flex;
+    
+}
 
+.flower-19{
+    padding-left: 120px;
+    padding-right: 10px;
+}
+
+.flower-16{
+    padding-right: 10px;
+}
+
+.flower-20{
+    padding-right: 10px;
+}
+
+.flower-21{
+    padding-right: 120px;
+}
+
+.my-first-flower-name{
+    padding-left:250px ;
+}
+
+.my-second-flower-name{
+    padding-left: 250px;
+}
+
+.my-third-flower-name{
+    padding-left: 220px;
+}
+
+.my-fourth-flower-name{
+    padding-left: 190px;
+}
 
 
 
